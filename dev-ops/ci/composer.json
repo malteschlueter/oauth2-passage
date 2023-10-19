@@ -1,0 +1,26 @@
+{
+    "name": "malteschlueter/dev-ops",
+    "description": "Dev-Ops",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2",
+        "friendsofphp/php-cs-fixer": "^3.35",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan": "^1.2",
+        "phpstan/phpstan-deprecation-rules": "^1.0",
+        "phpstan/phpstan-strict-rules": "^1.1",
+        "phpunit/phpunit": "^10",
+        "tomasvotruba/cognitive-complexity": "^0.2.2",
+        "tomasvotruba/type-coverage": "^0.2.1"
+    },
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "sort-packages": true,
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}

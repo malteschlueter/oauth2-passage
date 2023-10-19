@@ -1,0 +1,11 @@
+parameters:
+    level: 8
+    paths:
+        - %currentWorkingDirectory%/src
+    scanDirectories:
+        - %currentWorkingDirectory%/src/
+    bootstrapFiles:
+        - %currentWorkingDirectory%/vendor/autoload.php
+    tmpDir: %currentWorkingDirectory%/dev-ops/ci/cache
+    type_coverage:
+        param_type: 88
