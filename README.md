@@ -10,6 +10,7 @@ https://docs.passage.id/hosted-login/oidc-client-configuration
 
 The following versions of PHP are supported.
 
+* PHP 8.1
 * PHP 8.2
 
 ## Installation
