@@ -12,6 +12,7 @@ The following versions of PHP are supported.
 
 * PHP 8.1
 * PHP 8.2
+* PHP 8.3
 
 ## Installation
 
