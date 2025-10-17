@@ -2,6 +2,10 @@
 
 This package provides [Passage](https://passage.1password.com/) OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
+## :warning: Retirement :warning:
+
+Passage will be retired on January 16, 2026. See https://docs.passage.id/home/migration-guide.
+
 ## Offical Documentation
 
 https://docs.passage.id/hosted-login/oidc-client-configuration
